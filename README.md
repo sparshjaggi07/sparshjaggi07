@@ -66,7 +66,7 @@
 
   - 📫 &emsp; How to reach me **sparshjaggi2607@gmail.com**
 
-  - ⚡&emsp; Fun fact **I am funny😂**
+  - ⚡&emsp; Fun fact : **I am funny😂**
 </p>
 
 <br/>
@@ -103,7 +103,7 @@
 
 <p align="center">
   <a href="https://github.com/sparshjaggi07">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sparshjaggi07&theme=radical&border=7F3FBF&background=0D1117" alt="Sparsh's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=trulyaman25&theme=radical&border=7F3FBF&background=0D1117" alt="Sparsh's GitHub streak"/>
   </a>
 </p>
 
