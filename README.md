@@ -116,10 +116,10 @@
 
 
 <a> 
-    <a href="https://github.com/sparshjaggi07"><img alt="Sparsh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=trulyaman25&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/sparshjaggi07"><img alt="Sparsh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=sparshjaggi07&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/sparshjaggi07"><img alt="Sparsh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=trulyaman25&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![Sparsh's Graph](https://github-readme-activity-graph.vercel.app/graph?username=trulyaman25&custom_title=Aman%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Sparsh's Graph](https://github-readme-activity-graph.vercel.app/graph?username=sparshjaggi07&custom_title=Aman%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
